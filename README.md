@@ -114,11 +114,11 @@ This project focuses on securing an enterprise network using a Cisco ASA firewal
 **6. Testing and Verification**
 
 To ensure the configuration works properly, perform the following tests:
-✅ Ping from Inside to ASA Firewall
-✅ Access the Web Server from the Inside and Outside networks
-✅ Check DHCP IP assignment on client devices
-✅ SSH into ASA Firewall securely
-✅ Verify OSPF routing table on ASA and routers
+✅ Ping from Inside to ASA Firewall<br>
+✅ Access the Web Server from the Inside and Outside networks<br>
+✅ Check DHCP IP assignment on client devices<br>
+✅ SSH into ASA Firewall securely<br>
+✅ Verify OSPF routing table on ASA and routers<br>
 
      ! Verify OSPF neighbors
      show ospf neighbor
